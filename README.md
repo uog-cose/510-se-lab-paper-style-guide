@@ -33,3 +33,5 @@ Let the layout engines in tools like LaTeX work for you.  Avoid using placement 
 All figures should be fully explained (see Rule 1) rather than left to interpretation by the reader.  A paper is a user manual, not a work of modern art.  A figure should not be used as a substitute for a paragraph of text.
 
 Conclusions should conclude a paper, not just summarise them.  Answer the questions: what have we learned? what can we generalise from this?
+
+A paper should be divided into two or more roughly equal sections. A section should be broken down into two or more roughly equal sub-sections, and so on.  A corollary of this is that you should never have an single section by itself at any depth. I call these dangling sub-sections because of how they appear in the table of contents, but you can think of them as 'only-child' sub-sections.  A dangling sub-section can either be merged with its parent or promoted to be a section in its own right.

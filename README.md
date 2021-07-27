@@ -38,4 +38,16 @@ A paper should be divided into two or more roughly equal sections. A section sho
 
 Look for repetition of text as opportunities to be more concise.  Simple examples are repetition of words in the same sentence, or the repetition of a prefix phrase in a list of items. 
 
+## References
+
 References should be consistently formatted.  Bibtex and other tools will get you a long way on this, but you still need to take care of the source formatting.  A good shortcut is to use the DBLP version of a reference wherever possible.
+
+Be aware of the difference between an inline textual citation, such as Storer's [2021] style rules and citations given in parentheses [Storer, 2021].  Never, ever, use a citation in parentheses as though it should be read as an inline textual citation.  Assume that anything in brackets should only be optionally read by the reader. 
+
+> "[Storer, 2021] banged on about the spelling"
+
+could be read as:
+
+> "banged on about the spelling".
+
+This is particularly important when numbered references rather than Harvard style is used.

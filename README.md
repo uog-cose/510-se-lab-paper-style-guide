@@ -35,3 +35,7 @@ All figures should be fully explained (see Rule 1) rather than left to interpret
 Conclusions should conclude a paper, not just summarise them.  Answer the questions: what have we learned? what can we generalise from this?
 
 A paper should be divided into two or more roughly equal sections. A section should be broken down into two or more roughly equal sub-sections, and so on.  A corollary of this is that you should never have an single section by itself at any depth. I call these dangling sub-sections because of how they appear in the table of contents, but you can think of them as 'only-child' sub-sections.  A dangling sub-section can either be merged with its parent or promoted to be a section in its own right.
+
+Look for repetition of text as opportunities to be more concise.  Simple examples are repetition of words in the same sentence, or the repetition of a prefix phrase in a list of items. 
+
+References should be consistently formatted.  Bibtex and other tools will get you a long way on this, but you still need to take care of the source formatting.  A good shortcut is to use the DBLP version of a reference wherever possible.

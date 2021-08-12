@@ -8,7 +8,15 @@ Tim Storer
 
 ## The rules
 
+## LaTeX management
+
+LaTeX code should be hard wrapped at 120 characters. This enables readers of the source code to parse each line without losing vertical position in the text.  Hard wrapping also helps to minimise diffs (see next rule.)
+
+LaTeX source code should be change managed.  Compiled or generated files should not be included in the change management code.
+
 Any given passage should be written with the mindset that you are explaining a task to your children.  Unless you explain every detail completely clearly you will eventually have to do it yourself.
+
+## Uncategorised
 
 Spelling mistakes, even auto-corrected spelling mistakes are not to be forgiven.  Equally, native English speakers should be a whole lot more sympathetic to non-native English speakers.  Ask them to try writing their PhD thesis in Arabic.
 

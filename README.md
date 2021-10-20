@@ -36,7 +36,9 @@ Tim Storer
 4. Look for repetition of text as opportunities to be more concise.  Simple examples are repetition of words in the same sentence, or the repetition of a prefix phrase in a list of items. 
 5. Look for phrases that indicate duplication "Moreover", "In other words".  Why say something twice? Just pick the best explanation and improve it.
 
-##  
+## Specificity
+
+1. Check that *every* sentence makes a specific point relevant to your document.  A good test of the usefulness of a sentence is to ask yourself if the sentence could be included in any paper.  For example, the first sentence of a literature review chapter that reads "This chapter presents a review of the relevant literature." is not useful.  It doesn't tell me that the relevant literature is for the topic at hand.
 
 ## Structure
 

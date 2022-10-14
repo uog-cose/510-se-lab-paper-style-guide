@@ -50,13 +50,19 @@ Tim Storer
 
 3. The first paragraph should be as narrowly focused on the topic of the whole paper as possible.  Introductions that begin "Computing technologies have revolutionised society" when the topic of the paper concerns a novel algorithm for traffic management in a network wastes space before getting to the relevant bit.  Focus on what the narrow context is for your innovation.
 
-4. Each paragraph should build incrementally on the previous paragraph.
+4. Each paragraph should build incrementally on the previous paragraph.  Don't change topics dramatically between paragraphs.  There should be a gradual flow, developing an argument, in the same way that paragraphs in a novel gradually develop a plot.
 
 5. Avoid forward references.  The only exception to this is the structure section of the introduction.  See next rule (that's a joke, by the way).
 
 6. All papers follow the same structure: introduction, related work, design, results, conclusions.  Variations to this include insertion of a 'discussion' between results and conclusions; or moving related work after results.  This is done to allow comparison between prior results and the new results.
 
-7. All introductions follow the same pattern: background; motivation; research questions; contribution; structure.
+7. All introductions follow the same pattern: background and importance; motivation; research questions; contribution; structure.  
+
+    - The background and importance set the general context for  the paper and make a convincing case that the topic area is important.  If your paper is about code reviews for example, outline what contemporary code reviews are, what they are for and why they matter.  Reference industry or academic surveys of practitioners that indicate that code reviews are practiced by a majority of teams (or at least reported as doing so).  Reference other papers that say that code reviews are effective at preventing the introduction of bugs or technical debt.
+    - Motivation explains what the specific problem is within the context that your paper addresses.  Perhaps little is known about how code reviews are practiced when teams are remote, or when done in real time.  Explain this gap.
+    - Next describe, through a discussion of research questions how you address this gap in the paper.
+    - Go on to explain the contribution that the paper makes in filling the gap, including what new knowledge has been gained.   
+    - Finally, conclude the introduction with an explanation of the content of each section of the rest of the paper.  Don't just state the name of each section, explain in a phrase what it contains and why it is there. For example, outline the specific topics included in the related work and why you have selected them.
 
 8. All conclusions follow the same pattern: summary, discussion, limitations, future work and generalisable lessons. Conclusions should *conclude* a paper, not just summarise them.  Answer the questions: what have we learned? what can we generalise from this?
 
